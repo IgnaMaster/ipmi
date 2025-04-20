@@ -27,7 +27,7 @@ CHATGRILLA = loadImage("CHATGRILLA.png");
    ellipseMode(CORNER);
   
   stroke(255, 0, 0);
-   fill(242, 199, 121);
+   fill(254, 200, 128);
    stroke(0);
    strokeWeight(5);
    triangle(720, 310, 680, 310, 701, 358);
@@ -38,7 +38,7 @@ CHATGRILLA = loadImage("CHATGRILLA.png");
      strokeWeight(5);
    ellipse(580, 78, 240, 244);
    
-   fill(242, 199, 121);
+   fill(254, 200, 128);
    stroke(0);
    strokeWeight(6);
    ellipse(600, 120, 200, 202);
